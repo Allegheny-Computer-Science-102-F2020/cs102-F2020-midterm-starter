@@ -91,3 +91,15 @@ print()
 ```
 
 Please provide your response to this question in a fenced code block.
+
+## (10 Points) Please explain all of the defects in the following Python program segment
+
+```python
+file - open("emails")
+  for line in file:
+    name, email == line.split(",")
+    if name = "John Davis":
+      print(email)
+```
+
+Please provide your response to this question in a paragraph or a list.
