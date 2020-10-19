@@ -19,6 +19,15 @@ You must retype the sentence here.
 - You may not refer to the Python source code that you wrote during the semester
 - You may not refer to the technical writing that you completed during the semester
 
+**IMPORTANT**: All students in this course are obligated to adhere to the
+Allegheny College Honor Code throughout the completion of this examination. If
+the instructor detects that a student has committed a likely violation of the
+Allegheny College Honor Code, then he will file a report with the Dean of
+Students Office. Please make sure that you review the [Honor
+Code](https://sites.allegheny.edu/about/honor-code/) before you start to take
+this examination. Please note that, due to the ongoing global pandemic, Sections
+1 and 2 of Honor Code Article IV are not enforced for this examination.
+
 ## Procedures for the Final Examination
 
 - You must provide answers to all these questions by typing in this file
@@ -103,3 +112,58 @@ file - open("emails")
 ```
 
 Please provide your response to this question in a paragraph or a list.
+
+## (10 Points) Provide a definition of the following terms:
+
+### (2 Points) Function parameter
+
+### (2 Points) Function return values
+
+### (2 Points) Recursive function
+
+### (2 Points) Higher-order function
+
+### (2 Points) Lambda function (or, lambda expression)
+
+## (10 Points) Provide a definition of the following terms:
+
+### (2 Points) Ordered pair
+
+### (2 Points) n-tuple
+
+### (2 Points) Delimiter
+
+### (2 Points) CSV file
+
+### (2 Points) Relational database
+
+## (10 Points) What would be the output from running this Python program segment?
+
+```python
+square_lambda = lambda x: x*x
+
+number = 5
+result = call_twice(square_lambda, number)
+
+print("Calling the square lambda twice with " + str(number) + " is " + str(result))
+print()
+```
+
+## (10 Points) Provide a detailed, multiple paragraph response to the following question:
+
+Take one laboratory or practical assignment that you worked on this semester
+that you struggled to understand and solve and explain how the struggle itself
+was valuable. In the context of this question, describe the struggle and how
+you overcame the it through your own actions. In your response to this
+question, you might also discuss whether struggling built aspects of character
+in you (e.g. endurance, self-confidence, competence to solve new problems) and
+how these virtues might benefit you in later ventures.
+
+## (10 Points) Provide a detailed, multiple paragraph response to the following question:
+
+Suppose that you have a Python program in a GitHub repository with a failing
+build in GitHub Actions. After explaining an example of a way in which the build
+might fail for this Python program, please furnish all of the steps that you
+would take to understand and fix the build failure. Finally, please explain how,
+in addition to looking for the green checkmark in GitHub Actions, you would know
+that the Python program was fixed correctly.
