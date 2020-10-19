@@ -141,6 +141,10 @@ Please provide your response to this question in a paragraph or a list.
 ## (10 Points) What would be the output from running this Python program segment?
 
 ```python
+def call_twice(f, number: int):
+    print(f"Calling twice {f} with starting number of {number}")
+    return f(f(number))
+
 square_lambda = lambda x: x*x
 
 number = 5
