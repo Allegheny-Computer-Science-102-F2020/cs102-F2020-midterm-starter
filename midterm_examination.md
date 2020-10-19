@@ -32,7 +32,8 @@ this examination. Please note that, due to the ongoing global pandemic, Sections
 
 - You must provide answers to all these questions by typing in this file
 - The final version of this file must be in your GitHub repository by the due date
-- You may direct message the course instructor through Slack if you have questions
+- You may direct message the course instructor through the Slack workspace if you have questions
+- Do not post questions about the examination in a public channel of the Slack workspace
 - Unless you make special arrangements with the instructor, no late work will be accepted
 
 ## Structure of the Final Examination
@@ -117,7 +118,7 @@ Please provide your response to this question in a paragraph or a list.
 
 ### (2 Points) Function parameter
 
-### (2 Points) Function return values
+### (2 Points) Function return value(s)
 
 ### (2 Points) Recursive function
 
@@ -149,15 +150,17 @@ print("Calling the square lambda twice with " + str(number) + " is " + str(resul
 print()
 ```
 
+Please provide your response to this question in a fenced code block.
+
 ## (10 Points) Provide a detailed, multiple paragraph response to the following question:
 
-Take one laboratory or practical assignment that you worked on this semester
+Pick one laboratory or practical assignment that you worked on this semester
 that you struggled to understand and solve and explain how the struggle itself
-was valuable. In the context of this question, describe the struggle and how
-you overcame the it through your own actions. In your response to this
-question, you might also discuss whether struggling built aspects of character
-in you (e.g. endurance, self-confidence, competence to solve new problems) and
-how these virtues might benefit you in later ventures.
+was valuable. In the context of this question, describe the struggle and how you
+overcame it through your own actions. In your response to this question, you
+might also discuss whether struggling built aspects of character in you (e.g.
+endurance, self-confidence, or competence to solve new problems) and how these
+virtues might benefit you in later ventures.
 
 ## (10 Points) Provide a detailed, multiple paragraph response to the following question:
 
