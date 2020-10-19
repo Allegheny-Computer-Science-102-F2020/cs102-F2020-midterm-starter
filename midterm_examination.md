@@ -156,11 +156,12 @@ Please provide your response to this question in a fenced code block.
 
 Pick one laboratory or practical assignment that you worked on this semester
 that you struggled to understand and solve and explain how the struggle itself
-was valuable. In the context of this question, describe the struggle and how you
-overcame it through your own actions. In your response to this question, you
-might also discuss whether struggling built aspects of character in you (e.g.
-endurance, self-confidence, or competence to solve new problems) and how these
-virtues might benefit you in later ventures.
+was valuable. In the context of this question, describe the struggle in the
+field of discrete structures and how you overcame it through your own actions.
+In your response to this question, you might also discuss whether struggling
+built aspects of character in you (e.g. endurance, self-confidence, or
+competence to solve new problems) and how these virtues might benefit you in
+later ventures.
 
 ## (10 Points) Provide a detailed, multiple paragraph response to the following question:
 
