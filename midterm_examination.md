@@ -1,4 +1,4 @@
-# Midterm Examination for Computer Science 102 Spring 2020
+# Midterm Examination for Computer Science 102 Fall 2020
 
 ## Add Your Name Here
 
